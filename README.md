@@ -1,1 +1,2 @@
 # Demand-Forecasting
+Demand Forecasting is the process in which historical sales data is used to develop an estimate of an expected forecast of customer demand. To businesses, Demand Forecasting provides an estimate of the amount of goods and services that its customers will purchase in the foreseeable future. In this project I have built a predictive model to find out the sales of each product at a particular store.
